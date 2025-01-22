@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "VS1063")(type "KiCad")(uri "${VC_SYM}/VS1063.kicad_sym")(options "")(descr ""))
+  (lib (name "TP4056")(type "KiCad")(uri "${VC_SYM}/TP4056.kicad_sym")(options "")(descr ""))
+)
