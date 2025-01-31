@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "amp")(type "KiCad")(uri "${VC_FP}/amp.pretty")(options "")(descr ""))
+  (lib (name "codec")(type "KiCad")(uri "${VC_FP}/codec.pretty")(options "")(descr ""))
+  (lib (name "regulator")(type "KiCad")(uri "${VC_FP}/regulator.pretty")(options "")(descr ""))
+  (lib (name "transistor")(type "KiCad")(uri "${VC_FP}/transistor.pretty")(options "")(descr ""))
+  (lib (name "mic")(type "KiCad")(uri "${VC_FP}/mic.pretty")(options "")(descr ""))
+  (lib (name "ferrite")(type "KiCad")(uri "${VC_FP}/ferrite.pretty")(options "")(descr ""))
+)
